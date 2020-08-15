@@ -7,7 +7,7 @@ package fibonacci;
 
 /**
  *
- * @author 247
+ * @author Guntur Wicaksono
  */
 import java.util.Scanner;
 public class Fibonacci {
